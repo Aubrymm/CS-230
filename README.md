@@ -1,6 +1,6 @@
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The client, The Gaming ROom, requested a transition of their existing Android based game, Draw It or Lose It, to a web based platform. The goal was to develop a multiplatform experience that can run on different devices and operating systems. The sofware requirments included the use of design patterns like singleton for a single instance of the game and Iterator for navigating through teams and players.
+The client, The Gaming Room, requested a transition of their existing Android based game, "Draw It or Lose It", to a web based platform. The goal was to develop a multiplatform experience that can run on different devices and operating systems. The sofware requirments included the use of design patterns like singleton for a single instance of the game and Iterator for navigating through teams and players.
 
 What did you do particularly well in developing this documentation?
 
